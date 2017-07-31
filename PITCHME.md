@@ -81,7 +81,7 @@
 
 * Functional programming is important
 * I know a professor teaching lambda calculus (that's Trifon) <!-- .element: class="fragment" -->
-* He was IN right from the moment we told him about our idea for a course <!-- .element: class="fragment" -->
+* He was IN right from the moment I told him about my idea for a course <!-- .element: class="fragment" -->
 * So elixir-lang.bg was born <!-- .element: class="fragment" -->
 
 #HSLIDE
@@ -218,7 +218,7 @@
 ![Image-Absolute](assets/recursion.jpg)
 
 #HSLIDE
-## Future of our course
+### Future of our course
 * We will be back
 * Two times a week, shorter lectures <!-- .element: class="fragment" -->
 * More guest lecturers <!-- .element: class="fragment" -->
