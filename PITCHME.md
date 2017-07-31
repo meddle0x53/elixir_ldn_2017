@@ -14,7 +14,7 @@
 3. Future of our course...
 
 #HSLIDE
-## Who am I?
+### Who am I?
 
 * Nikolay (Meddle)
 * I am from Sofia  <!-- .element: class="fragment" -->
@@ -25,7 +25,7 @@
 ![Image-Absolute](assets/sofia_elixir.png)
 
 #HSLIDE
-## Who am I?
+### Who am I?
 * I am Not a native English speaker.
 * Meet my teacher in English!
 
@@ -33,7 +33,7 @@
 ![Image-Absolute](assets/arnold.jpeg)
 
 #HSLIDE
-## Who are we?
+### Who are we?
 
 * A group of people from FMI Sofia
 * Big fans of Elixir/Erlang <!-- .element: class="fragment" -->
@@ -43,7 +43,7 @@
 ![Image-Absolute](assets/elixir_lang_bg.png)
 
 #HSLIDE
-## Who are you?
+### Who are you?
 
 * You use/learn/work with Elixir!
 * Or you want to use/learn/work with Elixir? <!-- .element: class="fragment" -->
@@ -60,7 +60,7 @@
 ![Image-Absolute](assets/confused.jpg)
 
 #HSLIDE
-## Why I did what I did?
+### Why I did what I did?
 
 * I am a Lambda...
 * I saw Jose presenting Elixir once.  <!-- .element: class="fragment" -->
@@ -69,7 +69,7 @@
 * I wanted to do something meaningful with Elixir.  <!-- .element: class="fragment" -->
 
 #HSLIDE
-## About our surroundings
+### About our surroundings
 
 * We are from Bulgaria
 * We are from FMI  <!-- .element: class="fragment" -->
@@ -77,15 +77,15 @@
 * Every semester they can select from a set of elective courses  <!-- .element: class="fragment" -->
 
 #HSLIDE
-## Why we did what we did?
+### Why we did what we did?
 
 * Functional programming is important
-* I know a professor teaching lambda calculus (Great right? That's Trifon) <!-- .element: class="fragment" -->
+* I know a professor teaching lambda calculus (that's Trifon) <!-- .element: class="fragment" -->
 * He was IN right from the moment we told him about our idea for a course <!-- .element: class="fragment" -->
 * So elixir-lang.bg was born <!-- .element: class="fragment" -->
 
 #HSLIDE
-## Why we did what we did?!
+### Why we did what we did?!
 
 * Valo wanted to do Elixir pet project
 * I had the idea - Elixir course <!-- .element: class="fragment" -->
@@ -102,6 +102,10 @@
 
 #HSLIDE
 ### Rules of elixir-lang.bg
+![Image-Absolute](assets/fight_club.jpg)
+
+#HSLIDE
+### Rules of elixir-lang.bg
 
 * The course has to be free. <!-- .element: class="fragment" -->
 * People outside FMI can attend it. <!-- .element: class="fragment" -->
@@ -109,17 +113,15 @@
 * High grades should not be easy to earn. <!-- .element: class="fragment" -->
 * The course should make students write code. <!-- .element: class="fragment" -->
 
-![Image-Absolute](assets/fight_club.jpg)
+#HSLIDE
+### The first 'lecture'
+![Image-Absolute](assets/first.jpg)
 
 #HSLIDE
 ### The first 'lecture'
-
 * We made a presentation to advertise the course. <!-- .element: class="fragment" -->
 * We made it clear that the course won't be easy. <!-- .element: class="fragment" -->
 * It was once in a week for 3 hours (mistake). <!-- .element: class="fragment" -->
-
-#HSLIDE
-![Image-Absolute](assets/first.jpg)
 
 #HSLIDE
 ### The first half
