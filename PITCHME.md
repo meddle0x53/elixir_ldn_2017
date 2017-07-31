@@ -1,6 +1,6 @@
 #HSLIDE
-### How We Created The University Course
-## "Functional Programming With Elixir"
+#### How We Created The University Course
+### "Functional Programming With Elixir"
 
 #HSLIDE
 ![Image-Absolute](assets/title.jpg)
@@ -17,7 +17,7 @@
 ## Who am I?
 
 * Nikolay (Meddle)
-* I am form Sofia  <!-- .element: class="fragment" -->
+* I am from Sofia  <!-- .element: class="fragment" -->
 * I work in the public transport (Rails!) <!-- .element: class="fragment" -->
 * I am part of elixir-lang.bg <!-- .element: class="fragment" -->
 
@@ -37,8 +37,7 @@
 
 * A group of people from FMI Sofia
 * Big fans of Elixir/Erlang <!-- .element: class="fragment" -->
-* Functional programming!!! <!-- .element: class="fragment" -->
-* Related to EuRuKo Sofia <!-- .element: class="fragment" -->
+* And functional programming!!! <!-- .element: class="fragment" -->
 
 #HSLIDE
 ![Image-Absolute](assets/elixir_lang_bg.png)
@@ -61,6 +60,7 @@
 ![Image-Absolute](assets/confused.jpg)
 
 #HSLIDE
+## Why I did what I did?
 
 * I am a Lambda...
 * I saw Jose presenting Elixir once.  <!-- .element: class="fragment" -->
@@ -69,24 +69,27 @@
 * I wanted to do something meaningful with Elixir.  <!-- .element: class="fragment" -->
 
 #HSLIDE
+## About our surroundings
 
 * We are from Bulgaria
-* We are from FMI.  <!-- .element: class="fragment" -->
-* It is full of very smart people.  <!-- .element: class="fragment" -->
-* Every semester they can select from a set of elective courses.  <!-- .element: class="fragment" -->
+* We are from FMI  <!-- .element: class="fragment" -->
+* It is full of very smart people  <!-- .element: class="fragment" -->
+* Every semester they can select from a set of elective courses  <!-- .element: class="fragment" -->
 
 #HSLIDE
+## Why we did what we did?
 
-* Functional programming is important.
-* I know a professor teaching lambda calculus (Great right? That's Trifon). <!-- .element: class="fragment" -->
-* He was IN right from the moment we told him about our idea for a course. <!-- .element: class="fragment" -->
-* So elixir-lang.bg was born
+* Functional programming is important
+* I know a professor teaching lambda calculus (Great right? That's Trifon) <!-- .element: class="fragment" -->
+* He was IN right from the moment we told him about our idea for a course <!-- .element: class="fragment" -->
+* So elixir-lang.bg was born <!-- .element: class="fragment" -->
 
 #HSLIDE
+## Why we did what we did?!
 
-* Valo wanted to do Elixir pet project.
-* I had the idea - Elixir course. <!-- .element: class="fragment" -->
-* I met Andi & Slavi through Trifon. <!-- .element: class="fragment" -->
+* Valo wanted to do Elixir pet project
+* I had the idea - Elixir course <!-- .element: class="fragment" -->
+* I met Andi & Slavi through Trifon <!-- .element: class="fragment" -->
 
 #HSLIDE
 ![Image-Absolute](assets/begins.jpeg)
@@ -106,6 +109,8 @@
 * High grades should not be easy to earn. <!-- .element: class="fragment" -->
 * The course should make students write code. <!-- .element: class="fragment" -->
 
+![Image-Absolute](assets/fight_club.jpg)
+
 #HSLIDE
 ### The first 'lecture'
 
@@ -122,7 +127,7 @@
 * We talked about the functional Elixir. <!-- .element: class="fragment" -->
 * No processes, no nodes, no meta. <!-- .element: class="fragment" -->
 * Writing things like 'if', 'unless', 'cond' was forbidden. <!-- .element: class="fragment" -->
-* We spent a big chunk of time on basic thing. <!-- .element: class="fragment" -->
+* We spent a big chunk of time on basic things. <!-- .element: class="fragment" -->
 * The 'Functional' part of the name of the course was important. <!-- .element: class="fragment" -->
 
 #HSLIDE
@@ -153,7 +158,7 @@
 ### The second half
 
 * Processes, processes, processes, OTP! <!-- .element: class="fragment" -->
-* Again deep - started with the history of Erlang as told by Joe Armstrong! <!-- .element: class="fragment" -->
+* Started with the history of Erlang as told by Joe Armstrong! <!-- .element: class="fragment" -->
 * OTP in great detail - implemented our own GenServer logic.  <!-- .element: class="fragment" -->
 
 #HSLIDE
@@ -211,6 +216,7 @@
 ![Image-Absolute](assets/recursion.jpg)
 
 #HSLIDE
+## Future of our course
 * We will be back
 * Two times a week, shorter lectures <!-- .element: class="fragment" -->
 * More guest lecturers <!-- .element: class="fragment" -->
@@ -218,7 +224,7 @@
 * More advanced topics <!-- .element: class="fragment" -->
 
 #HSLIDE
-![Image-Absolute](assets/facepalm.jpg)
+![Image-Absolute](assets/back.jpg)
 
 #HSLIDE
 ## Thank you!
