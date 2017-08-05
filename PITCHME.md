@@ -6,7 +6,7 @@
 ![Image-Absolute](assets/title.jpg)
 
 #HSLIDE
-## Content
+## Contents
 
 0. Introductions
 1. Why we did what we did?!
@@ -87,7 +87,7 @@
 #HSLIDE
 ### Why we did what we did?!
 
-* Valo wanted to do Elixir pet project
+* Valo wanted to do some Elixir pet project
 * I had the idea - Elixir course <!-- .element: class="fragment" -->
 * I met Andi & Slavi through Trifon <!-- .element: class="fragment" -->
 
