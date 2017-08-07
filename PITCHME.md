@@ -121,7 +121,7 @@
 ### The first 'lecture'
 * We made a presentation to advertise the course. <!-- .element: class="fragment" -->
 * We made it clear that the course won't be easy. <!-- .element: class="fragment" -->
-* It was once in a week for 3 hours (mistake). <!-- .element: class="fragment" -->
+* It was once in a week for 3 hours. <!-- .element: class="fragment" -->
 
 #HSLIDE
 ### The first half
