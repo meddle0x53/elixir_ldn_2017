@@ -231,3 +231,10 @@
 #HSLIDE
 ## Thank you!
 ![Image-Absolute](assets/end.jpg)
+
+#HSLIDE
+## Find me?
+* https://twitter.com/ntzvetinov
+* https://github.com/meddle0x53
+* http://themeddle.com (Blog under construction)
+* http://smerch.bandcamp.com
